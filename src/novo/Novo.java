@@ -23,7 +23,8 @@ public class Novo {
         
         System.out.println("OUTRO JEITO:\n");
         
-        for (String string : nomes) {
+        for (String string : nomes) 
+        {
             System.out.println(nomes);
         }
     }
